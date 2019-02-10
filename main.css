@@ -1,0 +1,40 @@
+body,
+html {
+    margin:0;
+    padding:0;
+    color:#000;
+    background:#a7a09a;
+}
+header {
+        background:#ddd;
+}
+menu {
+    float:left;
+    width:30 vw;
+    background:#c99;
+    }
+menu ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+menu li {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+main {
+    float: left;
+    width:70 vw;
+    background:#9c9;
+    }
+footer {
+    clear:both;
+    background:#cc9;
+    }
+A {
+    visited:none;
+active:rgb(207, 29, 29);
+}
+
+    
